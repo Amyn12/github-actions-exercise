@@ -19,3 +19,6 @@ docker build . -t my-app
 ```bash
 docker run -p 8080:8080 my-app
 ```
+
+## Images 
+![Berlin Img](https://www.larousse.fr/encyclopedie/data/images/1314576-Berlin.jpg)
